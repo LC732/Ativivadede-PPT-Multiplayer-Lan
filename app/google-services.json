@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727120584231",
+    "project_id": "ppt-server",
+    "storage_bucket": "ppt-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727120584231:android:856163bbfd64e358f47802",
+        "android_client_info": {
+          "package_name": "com.example.pptcliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5KlQPbYm-lfi5I5XzOb3_8H42ce8a02k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
